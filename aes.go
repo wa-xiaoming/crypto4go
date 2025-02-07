@@ -5,9 +5,8 @@ import (
 	"crypto/cipher"
 	"crypto/md5"
 	"crypto/rand"
-	"hash"
-
 	"golang.org/x/crypto/pbkdf2"
+	"hash"
 )
 
 const (
